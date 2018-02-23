@@ -53,7 +53,6 @@ protected
 public
 ^ almost equivalent to the exports...as long as they have a handle to your object
 
-
 jist of 1st assignment is can you read something and can you write something?
 
 not so primitive data types aka list
@@ -72,5 +71,69 @@ if you want to add items to an array you have to give it an index. they are resp
 
 this is gibberish!
 
+a dictionary uses key value pairs, and to make it only use an array you would use the index as a key and the value of the objects is the value.
 
+--
 
+activity 3 recap:
+
+few ways to wrap your code in an infinite loop
+
+while loop:
+
+do
+{
+
+} while();
+var c = true;
+
+while(c==true)
+{
+  if(...)
+  {
+    c=false;
+  }
+}
+
+or will's way to do a loop:
+
+for (; ; )
+{
+
+}
+
+type inference, it will infer the type based on the right hand side of the statement
+var a = new List,int>();
+only use var when the type is obvious!!!
+
+what is the use of a dictionary? you have to think about uniqueness because it is a set.
+var students = new Dictionary<string, > ();
+
+use do while loop because you want it to go through at least once.
+
+do {
+
+}while(true);
+
+create a class called students
+
+class students{
+  public string FirstName {get; set;}
+}
+
+this code goes somewhere...
+
+var  s = new student
+{
+  FirstName: firstName,
+  PhoneString: phoneNumber
+};
+
+foreach loop construct:
+
+foreach (Student s in _students)
+{
+  Console.WriteLine(s);
+}
+
+a hash is 
