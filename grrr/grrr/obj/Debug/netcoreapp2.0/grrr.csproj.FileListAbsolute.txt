@@ -1,0 +1,11 @@
+/Users/batlijoselevitz/Desktop/github/week21/grrr/grrr/bin/Debug/netcoreapp2.0/grrr.deps.json
+/Users/batlijoselevitz/Desktop/github/week21/grrr/grrr/bin/Debug/netcoreapp2.0/grrr.runtimeconfig.json
+/Users/batlijoselevitz/Desktop/github/week21/grrr/grrr/bin/Debug/netcoreapp2.0/grrr.runtimeconfig.dev.json
+/Users/batlijoselevitz/Desktop/github/week21/grrr/grrr/bin/Debug/netcoreapp2.0/grrr.dll
+/Users/batlijoselevitz/Desktop/github/week21/grrr/grrr/bin/Debug/netcoreapp2.0/grrr.pdb
+/Users/batlijoselevitz/Desktop/github/week21/grrr/grrr/obj/Debug/netcoreapp2.0/grrr.csprojResolveAssemblyReference.cache
+/Users/batlijoselevitz/Desktop/github/week21/grrr/grrr/obj/Debug/netcoreapp2.0/grrr.csproj.CoreCompileInputs.cache
+/Users/batlijoselevitz/Desktop/github/week21/grrr/grrr/obj/Debug/netcoreapp2.0/grrr.AssemblyInfoInputs.cache
+/Users/batlijoselevitz/Desktop/github/week21/grrr/grrr/obj/Debug/netcoreapp2.0/grrr.AssemblyInfo.cs
+/Users/batlijoselevitz/Desktop/github/week21/grrr/grrr/obj/Debug/netcoreapp2.0/grrr.dll
+/Users/batlijoselevitz/Desktop/github/week21/grrr/grrr/obj/Debug/netcoreapp2.0/grrr.pdb

@@ -1,0 +1,76 @@
+notes
+
+still create an array by using brackets []
+
+object [] tmp= new object[10]
+
+//an array is created at design time not at run time
+
+
+how to print stuff to the console:
+
+using system;
+
+namespace fun_with_csharp
+  {
+    class Program
+    {
+      static void Main(string[]args)
+      {
+        string greeting - "Hello"; //variable
+        console.WriteLine("Hello");
+      }
+    }
+  }
+
+  you can create string templates
+
+
+  --
+namespaces exist because this allows you to create same function names without having to worry about some other developers code...you don't have to be mindful of what's in scope.
+
+using System: a lot of functionality comes from system, pulls it in the scope so you don't have to repeat the code throughout.
+
+everything has to be in a class for c#
+
+there is an entry point which is awesome, unlike node
+
+since this is a console application it accepts user input [args]
+
+ie. static void Main(string[]args)
+
+static is useful: I only want one instance...
+
+void doesn't return anything
+
+every function has to have a return type that goes before the method
+
+access modifier:
+private
+^ you can emulate this with javascript
+protected
+^ subclasses have access...
+public
+^ almost equivalent to the exports...as long as they have a handle to your object
+
+
+jist of 1st assignment is can you read something and can you write something?
+
+not so primitive data types aka list
+
+list: is an object, use methods and functions woo
+
+create a list of strings
+LOOK AT ACTIVITY 2 EXAMPLE from REPO
+
+using System;
+using System.Collections.Generic; //where it can find function called list
+
+purpose of data type: to store certain type of data
+
+if you want to add items to an array you have to give it an index. they are responsible for every data structure you know...c# is literally a continuous block of memory
+
+this is gibberish!
+
+
+
