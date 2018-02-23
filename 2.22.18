@@ -136,4 +136,29 @@ foreach (Student s in _students)
   Console.WriteLine(s);
 }
 
-a hash is 
+will demo's functions:
+
+void Main()
+{
+  void fn() //return type is void and name is fn, it looks v similar to js function...you have to specify the return type with c# !!!
+  {
+
+  }
+  fn();
+}
+
+there are many ways to write functions...if you understand arrow functions good for you!
+int fn2= (int a) => return a;
+
+use case of this: a list that has a few things on it 
+
+a method is a function that exists on the instance itself...
+var s = new Student()
+
+always favor explicitness!
+
+point of a function is to return a value!!!!!!!!
+
+you can cast a character into an integer...
+
+Exception handling : not implemented
