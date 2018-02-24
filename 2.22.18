@@ -159,6 +159,14 @@ always favor explicitness!
 
 point of a function is to return a value!!!!!!!!
 
+create an object if you want multiple return values
+
 you can cast a character into an integer...
 
-Exception handling : not implemented
+Conditionals: same as JS except one more...
+
+if/else 
+
+else/if goes at the end of an if: if true else if true else...
+
+and if that doesn't make sense it's bc my brain just exploded. :)

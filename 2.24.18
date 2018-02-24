@@ -1,0 +1,11 @@
+if you have 2 functions called Main it will break in the build when its compiling.
+
+what is a class and how does that relate to javascript and what we already know about functions?
+- constructor functions
+
+- inside a class we can have many functions
+
+our constructor is whose name is the same as the class:
+public User(string firstName, string lastName, string email)
+
+
