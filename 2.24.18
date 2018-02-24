@@ -8,4 +8,15 @@ what is a class and how does that relate to javascript and what we already know 
 our constructor is whose name is the same as the class:
 public User(string firstName, string lastName, string email)
 
+MVC REVIEW
 
+            Model
+|                    |
+|                    |
+Updates             Manipulates
+|                   |
+|                   |
+view                controller
+|                   |
+sees                uses
+            User
